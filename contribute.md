@@ -19,7 +19,7 @@
     <!--Xiaorui-->
     <td align="center">
       <a href="https://b23.tv/UTJhWfG">
-         <img src="https://bbs.tatysmp.love/data/avatars/s/0/8.jpg" width="50;" alt=""/><br>
+         <img src="https://yizhan.wiki/NitWikit/img/book.png" width="50;" alt=""/><br>
         <a>
             XiaoruiHiHa2024<br>
             提供ui、物品、草图、灵感、小部分wiki文档
